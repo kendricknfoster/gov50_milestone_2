@@ -1,0 +1,21 @@
+---
+title: "Milestone 2"
+author: "Kendrick Foster"
+date: "9/25/2020"
+output: html_document
+---
+
+Repo: https://github.com/kendricknfoster/gov50_milestone_2
+
+Project 1: Regional Inequality in Slovak Education, by Matej Cerman
+
+This project has engaging visualizations and maps, with a model that allows you
+to select between the different outcome variable. This approach allows us to get
+a better grasp of the impact of average gross income on education across
+multiple dimensions. However, I would have liked to see an explanation of
+factors that go into the overall rating of various Slovak schools, and I would
+have liked to see some sort of multivariate regression. Also, why is the effect
+of average gross impact so much stronger for regions than for individual
+schools?
+
+Project 2: 
