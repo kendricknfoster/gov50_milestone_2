@@ -7,7 +7,7 @@ output: html_document
 
 Repo: https://github.com/kendricknfoster/gov50_milestone_2
 
-Project 1: Regional Inequality in Slovak Education, by Matej Cerman
+**Project 1: Regional Inequality in Slovak Education, by Matej Cerman**
 
 This project has engaging visualizations and maps, with a model that allows you
 to select between the different outcome variable. This approach allows us to get
@@ -18,4 +18,12 @@ have liked to see some sort of multivariate regression. Also, why is the effect
 of average gross impact so much stronger for regions than for individual
 schools?
 
-Project 2: 
+**Project 2: Gender's Effect on Speaker Points in National Circuit
+Lincoln-Douglas Debate, by Ishan Bhatt**
+
+This project has a clean density plot that reaches a clearly stated conclusion:
+men get consistently higher speaker points than women. However, I think that
+there are too many options in tournaments and region, and the author should have
+used a dropdown menu more similar to the one in the project above so it's easier
+to isolate one specific tournament or one specific region instead of having to
+click several times to remove all the other tournaments/regions.
